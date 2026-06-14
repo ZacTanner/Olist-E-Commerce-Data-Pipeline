@@ -1,6 +1,6 @@
 # Olist E-commerce Data Pipeline — Medallion Architecture
  
-**Dataset**: [Brazilian E-commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle)  
+**Dataset**: [Brazilian E-commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 **Tools Used**: Databricks · PySpark · Spark SQL · Delta Lake
 
 ---
