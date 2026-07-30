@@ -10,8 +10,6 @@
 
 ## Table of Contents
 
-## Table of Contents
-
 - [Overview](#overview)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Dataset](#dataset)
